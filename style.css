@@ -415,7 +415,6 @@ html {
 
   .section-2 {
     height: auto;
-    padding: 10rem 0 12rem 0;
   }
 
   .cards-container {
@@ -430,7 +429,7 @@ html {
 
   .food-img {
     width: 100%;
-    height: 200%;
+    height: 100%;
   }
 }
 
